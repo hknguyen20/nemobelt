@@ -281,16 +281,16 @@ input, select, textarea {
 		background: rgba(255, 255, 255, 0.05);
 		border-radius: 0.25em;
 		border: solid 1px rgba(255, 255, 255, 0.15);
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
+		/* font-family: "Courier New", monospace;*/
+		font-size: 1.1em; 
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
+		/* font-family: "Courier New", monospace;
+		font-size: 0.9em; */
 		margin: 0 0 2em 0;
 	}
 
