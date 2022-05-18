@@ -68,6 +68,7 @@ input, select, textarea {
 }
 
 /* Basic */
+	
 
 	@-ms-viewport {
 		width: device-width;
@@ -2614,7 +2615,7 @@ input, select, textarea {
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		padding-left: 5em;
 	}
 
 		ol li {
@@ -2624,7 +2625,7 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 5em;
 	}
 
 		ul li {
@@ -3910,6 +3911,7 @@ input, select, textarea {
 			background-position: top right;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
+			
 		}
 	
 	
