@@ -1997,7 +1997,7 @@ input, select, textarea {
 			position: relative;
 		}
 
-			.features section:nth-child(-n + 2) {
+			.features section:nth-child(-n+2) {
 				border-top-width: 0;
 			}
 
@@ -2185,6 +2185,9 @@ input, select, textarea {
 				}
 
 					.features section:first-child {
+						border-top-width: 0 !important;
+					}
+					.features section:second-child {
 						border-top-width: 0 !important;
 					}
 
